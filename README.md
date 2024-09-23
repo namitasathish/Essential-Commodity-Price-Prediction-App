@@ -14,5 +14,5 @@ Users can enter:
 and the app predicts the price of the commodity for the given year based on historical data using an ARIMA model.
 
 ## Dataset 
-Dataset is from The Department of Consumer Affairs of India and contains annual average retail prices for various food commodities across Indian states and union territories from 2018 to 2023
+Dataset is from The Department of Consumer Affairs of India and contains annual average retail prices for various food commodities across Indian states and union territories from 2018 to 2023 <br>
 [https://www.data.gov.in/resource/stateut-wise-details-annual-average-retail-daily-prices-22-essential-food-commodities-2018](URL)
