@@ -25,4 +25,4 @@ and the app predicts the price of the commodity for the given year based on hist
   
   ## Project Working
 
-<img src="app.png" width="500" height="300">
+<img src="app.png" width="500" height="500">
