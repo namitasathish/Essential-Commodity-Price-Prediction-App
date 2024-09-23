@@ -22,3 +22,7 @@ and the app predicts the price of the commodity for the given year based on hist
 - Open the React frontend in your browser (http://localhost:3000).
 - Enter the commodity name, state/UT, and forecast year in the form.
 - Click "Get Prediction" to get the predicted price.
+  
+  ## Project Working
+
+<img src="app.png" width="500" height="300">
